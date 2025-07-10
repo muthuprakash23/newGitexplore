@@ -1,2 +1,0 @@
-This is test3 text file for git learning.
-This is for checking.
